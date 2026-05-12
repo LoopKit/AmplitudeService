@@ -198,7 +198,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sunteți sigur/ă că doriți să ștergeți acest serviciu?"
+            "value" : "Sunteți sigur că doriți să ștergeți acest serviciu?"
           }
         },
         "ru" : {
@@ -329,7 +329,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renunță"
+            "value" : "Anulați"
           }
         },
         "ru" : {
@@ -454,7 +454,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Șterge serviciul"
+            "value" : "Ștergeți serviciul"
           }
         },
         "ru" : {
