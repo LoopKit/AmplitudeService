@@ -12,7 +12,7 @@ import LoopKitUI
 import AmplitudeServiceKit
 import HealthKit
 
-extension AmplitudeService: ServiceUI {
+extension AmplitudeService: @retroactive ServiceUI {
     
     public static var image: UIImage? {
         UIImage(named: "amplitude_logo", in: Bundle(for: AmplitudeServiceTableViewController.self), compatibleWith: nil)!
